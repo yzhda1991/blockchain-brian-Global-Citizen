@@ -1,1 +1,4 @@
 .DS_Store
+node_modules/
+contracts/brian-network/node_modules
+apps/default-angular-app/node_modules
